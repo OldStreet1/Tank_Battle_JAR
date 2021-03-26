@@ -1,1 +1,1 @@
-# Tank_Battle_JAR  This document uses IOS to support cross platform development
+# Tank_Battle_JAR  This program uses IOS ecilpse development language java swing to support cross platform
